@@ -2,7 +2,7 @@
 
 **Course:** AI459 – AI for Sustainability, SVNIT Surat (B.Tech AI, Sem VIII)
 
-**GitHub:** https://github.com/<your-username>/carbon-aware-ai  *(replace with your repository link)*
+**GitHub:** https://github.com/<your-username>/carbon-aware-ai 
 
 ## Group members
 
